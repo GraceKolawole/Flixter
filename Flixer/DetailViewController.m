@@ -6,6 +6,7 @@
 //
 
 #import "DetailViewController.h"
+#import "MovieCell.h"
 
 @interface DetailViewController ()
 
@@ -19,6 +20,14 @@
     self.titleLabel.text = self.movie[@"title"];
     self.synopsisLabel.text = self.movie [@"overview"];
     //self.posterView.
+
+    NSString *baseURLString = @"https://image.tmdb.org/t/p/w92/";
+    NSString *posterURLString = self.movie[@"poster_path"];
+    NSString *fullPosterURLString = [baseURLString stringByAppendingString:posterURLString];
+    
+    NSURL *posterURL = [NSURL URLWithString:fullPosterURLString];
+    self.posterView.image = nil;
+    [self.posterView setImageWithURL:posterURL];
 }
 
 /*
