@@ -13,8 +13,8 @@ NS_ASSUME_NONNULL_BEGIN
 @interface DetailViewController : UIViewController
 @property (weak, nonatomic) IBOutlet UILabel *titleLabel;
 @property (weak, nonatomic) IBOutlet UILabel *synopsisLabel;
-@property (weak, nonatomic) IBOutlet UIImageView *posterView;
-@property (weak, nonatomic) IBOutlet NSDictionary *detailDict;
+@property (weak, nonatomic) IBOutlet UILabel *posterView;
+@property (weak, nonatomic) NSDictionary *movie;
 
 @end
 

@@ -16,6 +16,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    self.titleLabel.text = self.movie[@"title"];
+    self.synopsisLabel.text = self.movie [@"overview"];
+    //self.posterView.
 }
 
 /*
