@@ -15,14 +15,15 @@ The following **required** functionality is complete:
 - [X] User can pull to refresh the movie list.
 - [X] User sees an error message when there's a networking error.
 - [X] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
-
-The following **optional** features are implemented:
-
 <!-- https://user-images.githubusercontent.com/107007242/174414832-2ef7f333-d997-4e15-af43-befd6647ba56.mp4
 
 https://i.imgur.com/55xcqOZ.gif -->
 
-https://i.imgur.com/55xcqOZ.gif
+Video: https://i.imgur.com/55xcqOZ.gif
+
+The following **optional** features are implemented:
+
+
 
 - [ ] User can tap a poster in the collection view to see a detail screen of that movie
 - [ ] User can search for a movie.
