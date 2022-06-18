@@ -18,9 +18,11 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-https://user-images.githubusercontent.com/107007242/174414832-2ef7f333-d997-4e15-af43-befd6647ba56.mp4
+<!-- https://user-images.githubusercontent.com/107007242/174414832-2ef7f333-d997-4e15-af43-befd6647ba56.mp4
 
+https://i.imgur.com/55xcqOZ.gif -->
 
+<img src='https://i.imgur.com/55xcqOZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 - [ ] User can tap a poster in the collection view to see a detail screen of that movie
 - [ ] User can search for a movie.
