@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 https://i.imgur.com/55xcqOZ.gif -->
 
-<img src='https://i.imgur.com/55xcqOZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://i.imgur.com/55xcqOZ.gif](https://i.imgur.com/55xcqOZ.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 - [ ] User can tap a poster in the collection view to see a detail screen of that movie
 - [ ] User can search for a movie.
