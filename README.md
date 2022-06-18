@@ -15,11 +15,7 @@ The following **required** functionality is complete:
 - [X] User can pull to refresh the movie list.
 - [X] User sees an error message when there's a networking error.
 - [X] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
-<!-- https://user-images.githubusercontent.com/107007242/174414832-2ef7f333-d997-4e15-af43-befd6647ba56.mp4
 
-https://i.imgur.com/55xcqOZ.gif -->
-
-Video: https://i.imgur.com/55xcqOZ.gif
 
 The following **optional** features are implemented:
 
@@ -48,7 +44,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Video Walthrough:https://imgur.com/a/WiCOF1F
 
 GIF created with [Kap](https://getkap.co/).
 
